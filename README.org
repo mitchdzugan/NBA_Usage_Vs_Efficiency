@@ -1,0 +1,10 @@
+* NBA Usage VS Efficiency analysis
+* Stuff to do
+** DONE Download BREF GameLogs
+CLOSED: [2017-02-12 Sun 09:59]
+** TODO Write stats parser
+** TODO Analyse Stats
+** TODO Write Blog JS
+** TODO Make Blog(?) or someway to share
+
+
